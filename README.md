@@ -1,2 +1,2 @@
 # MaxBlogs.github.io
-Just a little blog about ones life
+Just a little blog about one's life. 
